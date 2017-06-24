@@ -7,7 +7,7 @@ Requirements
 ==
 * Java 8+
 * Scala 2.11.x
-* Spark 2.1.1
+* Apache Spark 2.1.1
 * Python 3.4+
 * R 3.1+
 
