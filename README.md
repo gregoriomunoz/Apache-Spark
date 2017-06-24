@@ -1,6 +1,6 @@
 Examples for Learning Spark
 ===============
-Examples for the Learning Spark book. These examples have been updated to run against Spark 2.1.1 so they may
+Examples for the Learning Spark book. These examples have been updated to run against Spark 2.1.1 and Java 8 so they may
 be slightly different than the versions in your copy of "Learning Spark".
 
 Requirements
