@@ -1,0 +1,1 @@
+Compile and run the application with parameters: local[4] 127.0.0.1 (the first argument means that the application will be run without the need to use the real Spark cluster - this is the best for learning and testing purposes; the second argument is the address of a Cassandra database node)
